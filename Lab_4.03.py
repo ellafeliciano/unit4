@@ -84,3 +84,9 @@ For each of the following problems, you will write a function that will draw the
 def my_function():
     # replace 'pass' with your code
     pass
+def draw_7():
+        my_string = ''
+        for i in range(7):
+            my_string += ' *'
+
+    print(my_string)
